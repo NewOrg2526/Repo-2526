@@ -5,5 +5,7 @@ using namespace std;
 int main()
 {
 cout<<"HELLO WORLD!! :) :) "<<endl;
+cout<<"Welcome to GitHub"<<endl;
+cout<<"This file exists in NewOrg2526 in Repo-2526"<<endl;
 return 0;
 }
