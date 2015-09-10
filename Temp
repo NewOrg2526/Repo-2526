@@ -8,5 +8,6 @@ cout<<"HELLO WORLD!! :) :) "<<endl;
 cout<<"Welcome to GitHub"<<endl;
 cout<<"This file exists in NewOrg2526 in Repo-2526"<<endl;
 cout<<"This is new edit done by the member in new branch"<<endl;
+cout<<"Changes made from the desktop application-notepad";
 return 0;
 }
